@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2843214468",
+    "project_id": "assessment3-62801",
+    "storage_bucket": "assessment3-62801.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2843214468:android:03711583b0f53a335fb8d1",
+        "android_client_info": {
+          "package_name": "com.example.assessment3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-smWxH4O2ueyT0mJZSrCbouLW60ipoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
